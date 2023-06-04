@@ -1,0 +1,125 @@
+{
+    "__class__":"Lista",
+    "vehiculos":[
+        {
+            "__class__": "Nuevo",
+            "__atributos__": {
+                "modelo": "Toyota Corolla",
+                "puertas": 4,
+                "color": "Azul",
+                "preciobase": 25000,
+                "version": "Base",
+                "marca": "Toyota"
+            }
+        },
+        {
+            "__class__": "Usado",
+            "__atributos__": {
+                "modelo": "Volkswagen Golf",
+                "puertas": 4,
+                "color": "Gris",
+                "preciobase": 18000,
+                "patente": "ABC123",
+                "anio": 2018,
+                "kilometraje": 50000,
+                "marca": "Volkswagen"
+            }
+        },
+        {
+            "__class__": "Nuevo",
+            "__atributos__": {
+                "modelo": "Toyota Camry",
+                "puertas": 4,
+                "color": "Plata",
+                "preciobase": 28000,
+                "version": "Base",
+                "marca": "Toyota"
+            }
+        },
+        {
+            "__class__": "Usado",
+            "__atributos__": {
+                "modelo": "Chevrolet Cruze",
+                "puertas": 4,
+                "color": "Blanco",
+                "preciobase": 20000,
+                "patente": "XYZ789",
+                "anio": 2017,
+                "kilometraje": 40000,
+                "marca": "Chevrolet"
+            }
+        },
+        {
+            "__class__": "Nuevo",
+            "__atributos__": {
+                "modelo": "Toyota Yaris",
+                "puertas": 4,
+                "color": "Rojo",
+                "preciobase": 22000,
+                "version": "Base",
+                "marca": "Toyota"
+            }
+        },
+        {
+            "__class__": "Usado",
+            "__atributos__": {
+                "modelo": "Ford Focus",
+                "puertas": 4,
+                "color": "Negro",
+                "preciobase": 15000,
+                "patente": "DEF456",
+                "anio": 2019,
+                "kilometraje": 45000,
+                "marca": "Ford"
+            }
+        },
+        {
+            "__class__": "Nuevo",
+            "__atributos__": {
+                "modelo": "Toyota RAV4",
+                "puertas": 5,
+                "color": "Gris",
+                "preciobase": 32000,
+                "version": "Full",
+                "marca": "Toyota"
+            }
+        },
+        {
+            "__class__": "Usado",
+            "__atributos__": {
+                "modelo": "Honda Civic",
+                "puertas": 4,
+                "color": "Azul",
+                "preciobase": 17000,
+                "patente": "GHI789",
+                "anio": 2017,
+                "kilometraje": 55000,
+                "marca": "Honda"
+            }
+        },
+        {
+            "__class__": "Nuevo",
+            "__atributos__": {
+                "modelo": "Toyota Corolla",
+                "puertas": 4,
+                "color": "Blanco",
+                "preciobase": 25000,
+                "version": "Full",
+                "marca": "Toyota"
+            }
+        },
+        {
+            "__class__": "Usado",
+            "__atributos__": {
+                "modelo": "Nissan Sentra",
+                "puertas": 4,
+                "color": "Gris",
+                "preciobase": 20000,
+                "patente": "JKL012",
+                "anio": 2016,
+                "kilometraje": 30000,
+                "marca": "Nissan"
+            }
+        }
+    ]
+}
